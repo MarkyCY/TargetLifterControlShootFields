@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<REGISTROS>
+  <REGISTRO>
+    <ID>1</ID>
+    <CARGA>14</CARGA>
+    <ESTADO>&#xFFFD;ptimo     </ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Est&#xE1; optimo</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>2</ID>
+    <CARGA>12</CARGA>
+    <ESTADO>Sin Carga  </ESTADO>
+    <UBICACION></UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+</REGISTROS>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<CICLOS>
+  <CICLO>
+    <LEV>5</LEV>
+    <INICIO>Dec 21 12:15:00 2021</INICIO>
+    <FIN>Dec 21 19:15:00 2021</FIN>
+  </CICLO>
+  <CICLO>
+    <LEV>5</LEV>
+    <INICIO>Dec 28 18:15:00 2021</INICIO>
+    <FIN>Dec 29 02:15:00 2021</FIN>
+  </CICLO>
+</CICLOS>

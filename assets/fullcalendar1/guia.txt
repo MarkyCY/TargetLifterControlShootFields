@@ -1,0 +1,1 @@
+mes(en) + dia + hora militar:min:seg + año

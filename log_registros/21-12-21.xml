@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<REGISTROS>
+  <REGISTRO>
+    <ID>1</ID>
+    <CARGA>0</CARGA>
+    <ESTADO>Defectuoso </ESTADO>
+    <UBICACION>Taller</UBICACION>
+    <INFO>Este levantador fue inspeccionado por el t&#xE9;cnico capacitado por la empresa desarrolladora del equipo (SIMPRO) cuya bater&#xED;a se encontr&#xF3; casi totalmente descargada se intent&#xF3; dar carga al mismo varias veces, incluso se le insert&#xF3; una bater&#xED;a nueva, pero sin resultados. Actualmente ni siquiera env&#xED;a se&#xF1;ales, plq el dispositivo no est&#xE1; funcionando.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>2</ID>
+    <CARGA>12</CARGA>
+    <ESTADO>Sin Carga  </ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Se le puso una bateria nueva con lo cual se encuentra funcionando correctamente.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>3</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>El bombillo no se activa al encender el equipo</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>4</ID>
+    <CARGA>12</CARGA>
+    <ESTADO>Sin Carga  </ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Rechina al movimiento. No tiene problemas con la sensibilidad pero el brazo no termina de subir el blanco en su totalidad</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>5</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>6</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>7</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Rechina al mover el brazo.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>8</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>9</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>10</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Rechina al movimiento</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>11</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Roza al subir </INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>12</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>El brazo de este levantador se encuentra inclinado y se sobrepasa mas all&#xE1; de su recorido</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>13</ID>
+    <CARGA>0</CARGA>
+    <ESTADO>Defectuoso </ESTADO>
+    <UBICACION>Taller</UBICACION>
+    <INFO>Este levantador se le cay&#xF3; a un soldado mientras era trasladado hacia el campo de tiro para el uso del mismo, posterior al incidente dejo de funcionar el equipo.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>14</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Aula Maniobra</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>15</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>16</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>17</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>18</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>19</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>20</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>21</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>La agarradera de este levantador se encuentra desatornillado.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>22</ID>
+    <CARGA>12</CARGA>
+    <ESTADO>Sin Carga  </ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Se encuentra con la bater&#xED;a muy baja por lo q el equipo no funciona. (El fusible de este levantador lo tiene el 23)</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>23</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Faltan dos (2) tornillos en el brazo tambi&#xE9;n el fusible se encuentra da&#xF1;ado. Por lo que no baja el brazo. (El fusible de este levantador lo tiene el 22)</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>24</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Su eje se encuentra flojo. El brazo roza con los bordes de&#xD;
+la tapa al subir.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>25</ID>
+    <CARGA>0</CARGA>
+    <ESTADO>Defectuoso </ESTADO>
+    <UBICACION>Taller</UBICACION>
+    <INFO>Este levantador fue utilizado en el terreno bajo condiciones de vientos fuertes con un blanco pesado ( de pie) xlq el dispositivo tras ser accionado varias veces dejo de funcionar. Al resvizarlo se constat&#xF3; q habia expirado el fusible del mismo. No envia se&#xF1;ales, plq el dispositivo no esta funcionando.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>26</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>27</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Este levantador recibe pero no emite ninguna se&#xF1;al. </INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>28</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO>Este levantador no tiene fusible.</INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>29</ID>
+    <CARGA>12</CARGA>
+    <ESTADO>Sin Carga  </ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+  <REGISTRO>
+    <ID>30</ID>
+    <CARGA>13</CARGA>
+    <ESTADO>Buen Estado</ESTADO>
+    <UBICACION>Almac&#xE9;n</UBICACION>
+    <INFO></INFO>
+  </REGISTRO>
+</REGISTROS>

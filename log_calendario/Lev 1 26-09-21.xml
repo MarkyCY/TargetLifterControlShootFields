@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<CICLOS>
+  <CICLO>
+    <LEV>1</LEV>
+    <INICIO>Sep 04 19:15:00 2021</INICIO>
+    <FIN>Sep 05 01:15:00 2021</FIN>
+  </CICLO>
+  <CICLO>
+    <LEV>1</LEV>
+    <INICIO>Sep 25 19:15:00 2021</INICIO>
+    <FIN>Sep 26 01:15:00 2021</FIN>
+  </CICLO>
+  <CICLO>
+    <LEV>1</LEV>
+    <INICIO>Jul 03 09:30:00 2021</INICIO>
+    <FIN>Jul 03 16:30:00 2021</FIN>
+  </CICLO>
+</CICLOS>
